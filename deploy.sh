@@ -1,0 +1,1 @@
+scp -P 65002 -r * u108920559@156.67.222.106:public_html/metaverse
